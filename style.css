@@ -1,12 +1,13 @@
 html, body
-{;
+{
   height: 100%;
   margin: 0;
 }
 
 body
 {
-background-image: (to right top, #0091ff, #2591d9, #1882c1, #0a73aa, #006494);
+background-image: url("skull.jpg");
+background-position: center;
 }
 
 .header
